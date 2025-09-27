@@ -20,10 +20,13 @@ It features layered background images, responsive layout, and simple hover effec
 1. Clone the repo:  
    ```bash
    git clone https://github.com/Naranishivaprasad/css-project.git
-open example .html  in your browser
+
 
 git add README.md
 
 git commit -m "Add README with project description"
 
 git push origin main
+
+
+open example .html  in your browser
