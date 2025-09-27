@@ -23,5 +23,7 @@ It features layered background images, responsive layout, and simple hover effec
 open example .html  in your browser
 
 git add README.md
+
 git commit -m "Add README with project description"
+
 git push origin main
